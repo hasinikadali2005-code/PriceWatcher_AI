@@ -55,9 +55,11 @@ The application follows separation of concerns and clean architecture principles
 ```text
 PriceWatcher_AI/
 │
+├── app.py
 ├── backend/
 │   ├── app.py
 │   ├── config.py
+│   ├── mock_sites/
 │   ├── scraper/
 │   └── requirements.txt
 │
@@ -67,6 +69,7 @@ PriceWatcher_AI/
 │   ├── package.json
 │   └── vite.config.ts
 │
+├── screenshots/
 └── README.md
 ```
 
