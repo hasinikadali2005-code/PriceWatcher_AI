@@ -60,16 +60,69 @@ PriceWatcher_AI/
 │   ├── app.py
 │   ├── config.py
 │   ├── mock_sites/
+│   │   ├── competitor_1.html
+│   │   ├── competitor_2.html
+│   │   ├── competitor_3.html
+│   │   ├── competitor_4.html
+│   │   ├── competitor_5.html
+│   │   └── competitor_6.html
 │   ├── scraper/
+│   │   └── competitor_scraper.py
 │   └── requirements.txt
 │
 ├── frontend/
-│   ├── src/
-│   ├── public/
+│   ├── .gitignore
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package-lock.json
 │   ├── package.json
+│   ├── postcss.config.cjs
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── AdminRoute.jsx
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── PriceTable.jsx
+│   │   │   ├── ProtectedRoute.jsx
+│   │   │   ├── RecommendationCard.jsx
+│   │   │   └── TrendChart.jsx
+│   │   ├── context/
+│   │   │   ├── AuthContext.jsx
+│   │   │   └── DataContext.jsx
+│   │   ├── layouts/
+│   │   │   └── DashboardLayout.jsx
+│   │   ├── pages/
+│   │   │   ├── AnalyticsPage.jsx
+│   │   │   ├── CompetitorsPage.jsx
+│   │   │   ├── DashboardPage.jsx
+│   │   │   ├── DishesPage.jsx
+│   │   │   ├── Landing.jsx
+│   │   │   ├── Login.jsx
+│   │   │   ├── Register.jsx
+│   │   │   ├── SettingsPage.jsx
+│   │   │   └── StaffManagementPage.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── public/
+│   │   └── vite.svg
+│   ├── README.md
+│   ├── tailwind.config.js
+│   ├── tsconfig.app.json
+│   ├── tsconfig.json
+│   ├── tsconfig.node.json
 │   └── vite.config.ts
 │
 ├── screenshots/
+│   ├── AdminAnalytics.png
+│   ├── AdminCompititor.png
+│   ├── AdminDashboard.png
+│   ├── AdminStaffManagement.png
+│   ├── Landing.png
+│   ├── LoginPage.png
+│   ├── SignUp.png
+│   ├── StaffAnalytics.png
+│   └── StaffDashboard.png
 └── README.md
 ```
 
