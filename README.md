@@ -104,17 +104,29 @@ npm run dev
 
 ## 📸 Application Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Landing Page
+![Landing Page](screenshots/Landing.png)
 
-### Login
-![Login](screenshots/login.png)
+### Login Page
+![Login Page](screenshots/LoginPage.png)
 
-### Analytics
-![Analytics](screenshots/analytics.png)
+### Admin Dashboard
+![Admin Dashboard](screenshots/AdminDashboard.png)
 
-### Competitors
-![Competitors](screenshots/competitors.png)
+### Staff Dashboard
+![Staff Dashboard](screenshots/StaffDashboard.png)
+
+### Admin Competitor View
+![Admin Competitor View](screenshots/AdminCompititor.png)
+
+### Admin Staff Management
+![Admin Staff Management](screenshots/AdminStaffManagement.png)
+
+### Admin Analytics
+![Admin Analytics](screenshots/AdminAnalytics.png)
+
+### Staff Analytics
+![Staff Analytics](screenshots/StaffAnalytics.png)
 
 ## 🔐 Security & Best Practices
 
