@@ -102,6 +102,20 @@ npm run dev
 3. Access the dashboard in your browser.
 4. Monitor competitor prices and analyze trends.
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
+
+### Competitors
+![Competitors](screenshots/competitors.png)
+
 ## 🔐 Security & Best Practices
 
 - Modular code organization
