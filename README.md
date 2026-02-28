@@ -202,3 +202,10 @@ npm run dev
 - Cloud deployment support
 - Automated alerts for price changes
 - Advanced business intelligence dashboard
+
+## Contributors
+
+- Pulasani Navaroj Reddy
+- Kadali Hasini
+- Poola Paavan Kumar Jashuva
+- Sundu Phanindher Reddy
